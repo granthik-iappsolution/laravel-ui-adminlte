@@ -1,6 +1,6 @@
 <?php
 
-namespace InfyOm\AdminLTEPreset;
+namespace Codiksh\AdminLTEPreset;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Ui\UiCommand;

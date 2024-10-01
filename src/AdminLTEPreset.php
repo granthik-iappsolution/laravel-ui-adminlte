@@ -1,12 +1,12 @@
 <?php
 
-namespace InfyOm\AdminLTEPreset;
+namespace Codiksh\AdminLTEPreset;
 
 use Illuminate\Console\Command;
 use Illuminate\Container\Container;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Str;
-use InfyOm\GeneratorHelpers\LaravelUtils;
+use Codiksh\GeneratorHelpers\LaravelUtils;
 use Laravel\Ui\Presets\Preset;
 use Symfony\Component\Finder\SplFileInfo;
 
